@@ -1,6 +1,8 @@
-## ✅ TIL 22/7/27 ~
+## ✅ TIL 22/07/27 ~
 
 ## **TIL(Today I Learned)**
+
+[2022/07/26](./22-07-26/220726.md)
 
 [2022/07/27](https://www.notion.so/2022-07-27-a1115b1c0ef94b12bb5a3ed7843fdbe7)
 
