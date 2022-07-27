@@ -2,9 +2,7 @@
 
 ## **TIL(Today I Learned)**
 
-[2022/07/26](./22-07-26/220726.md)
-
-[2022/07/27](https://www.notion.so/2022-07-27-a1115b1c0ef94b12bb5a3ed7843fdbe7)
+[2022/07/27](./22년7월/220727.md)
 
 [2022/07/28](https://www.notion.so/2022-07-28-16bc59fde2cf4866add6f8a458f344f8)
 
